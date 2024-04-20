@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Rami-Portfolio/static/css/main.0c767e9f.css",
+    "main.js": "/Rami-Portfolio/static/js/main.5d320a7a.js",
+    "static/js/453.83234151.chunk.js": "/Rami-Portfolio/static/js/453.83234151.chunk.js",
+    "static/media/Rami.jpg": "/Rami-Portfolio/static/media/Rami.74204af4005ee755463b.jpg",
+    "static/media/calculator.jpg": "/Rami-Portfolio/static/media/calculator.54e0080de65d33f5cdb3.jpg",
+    "static/media/Sample-Plan.png": "/Rami-Portfolio/static/media/Sample-Plan.8f9a0e959a95c83b8f41.png",
+    "static/media/B1-Layer.png": "/Rami-Portfolio/static/media/B1-Layer.40114c05a46b435dd91b.png",
+    "static/media/mrma.jpg": "/Rami-Portfolio/static/media/mrma.88c283e40cfb2f7e5694.jpg",
+    "static/media/B2-Layer.png": "/Rami-Portfolio/static/media/B2-Layer.3ce55a7a92a13fe663a1.png",
+    "static/media/Lesson-Plan.jpeg": "/Rami-Portfolio/static/media/Lesson-Plan.674169c29cf967baadda.jpeg",
+    "static/media/PPT.jpeg": "/Rami-Portfolio/static/media/PPT.5b240051b6ba996633d2.jpeg",
+    "index.html": "/Rami-Portfolio/index.html",
+    "main.0c767e9f.css.map": "/Rami-Portfolio/static/css/main.0c767e9f.css.map",
+    "main.5d320a7a.js.map": "/Rami-Portfolio/static/js/main.5d320a7a.js.map",
+    "453.83234151.chunk.js.map": "/Rami-Portfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c767e9f.css",
+    "static/js/main.5d320a7a.js"
+  ]
+}

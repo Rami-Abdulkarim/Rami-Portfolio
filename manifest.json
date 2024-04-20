@@ -1,0 +1,25 @@
+{
+  "short_name": "Rami's Portfolio",
+  "name": "Rami's Personal Portfolio",
+  "icons": [
+    {
+      "src": "Rami.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Rami.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Rami.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
