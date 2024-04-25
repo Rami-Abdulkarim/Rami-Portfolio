@@ -491,7 +491,7 @@ function App() {
               <img src={mrma} alt="mrma fashion Website"
               className='mx-auto h-[230px]' /><hr className='h-2 bg-[#182659]' />
               <h2 className='text-xl md:text-2xl text-center font-bold'>mrma Fashion Website</h2>
-              <p className='text-justify text-sm md:text-md px-3'>A vertual website created to
+              <p className='text-justify text-sm md:text-md px-3'>A virtual website created to
               simulate my abilities in styling websites that requires complex styling format. 
               The neat and unique styling gives the website a sweet looking. Notice that there's no such 
               company named "mrma".
