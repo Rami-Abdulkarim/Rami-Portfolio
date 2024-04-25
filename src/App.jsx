@@ -485,7 +485,7 @@ function App() {
             </div>
           </a>
 
-          <a href='https://rami-abdulkarim.github.io/MRMA-Fashion-Website/'>
+          <a href='https://rami-abdulkarim.github.io/mrma-fashion/'>
             <div className='w-[300px] h-[420px] bg-white rounded-[10px] transition-all hover:scale-110
             duration-500 cursor-pointer mb-10 lg:mb-0'>
               <img src={mrma} alt="mrma fashion Website"
